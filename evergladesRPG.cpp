@@ -3,7 +3,7 @@
 // 
 // evergladesRPG.cpp
 // 
-// Write a program that simulates a 2D RPG game in the Everglades about a ranger searching for tourists who got lost.
+// A program that simulates a 2D RPG game in the Everglades about a ranger searching for tourists who got lost.
 // Represented in a 5x5 matrix, the ranger starts in the upper left corner and must make their way to the tourists, who
 // are in the bottom right corner. However, along the way, there are dangers unknown to the ranger. The ranger has twelve
 // gongs of time and must make it to the tourists within that time limit, or lose the tourists forever, not knowing their fate.
